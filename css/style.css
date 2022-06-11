@@ -86,7 +86,7 @@ html
     align-items: center;
     position: absolute;
     top: 30%;
-    right: 10%;
+    left: 10%;
 }
 
 
@@ -95,7 +95,7 @@ html
 {
     font-family: century;
     font-size: 3rem;
-    text-align: center;
+    text-align: start;
     margin: 40px 0px;
 }
 
